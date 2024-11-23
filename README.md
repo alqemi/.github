@@ -1,4 +1,4 @@
-# ALQUEMI
+# ALQEMI
 
 ## 🌟 About / Acerca de
 
